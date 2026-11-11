@@ -22,4 +22,4 @@ public void displayInfo() {
     System.out.println("Price : " + price + " DA");
     System.out.println("--------------------");
 }
-}//mm
+}
