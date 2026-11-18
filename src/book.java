@@ -1,4 +1,4 @@
-public class Book {
+public class book {
 	
 // 1. Private Attributes (Encapsulation)
 private String title;
